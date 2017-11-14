@@ -1,0 +1,22 @@
+{
+  "name": "web_res",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sahar Zakay"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
